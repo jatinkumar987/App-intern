@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629136951878",
+    "project_id": "uiclass-c2dfa",
+    "storage_bucket": "uiclass-c2dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629136951878:android:fa0ba41c217eb399941847",
+        "android_client_info": {
+          "package_name": "com.example.uiclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629136951878-1q1f101jfjh8tfbgv2v7sdv3c97srsr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsxp3gdaQh_03s6AChztfxIrk8lvSlPKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629136951878-1q1f101jfjh8tfbgv2v7sdv3c97srsr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
