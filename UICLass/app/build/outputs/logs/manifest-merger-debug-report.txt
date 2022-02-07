@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [androidx.databinding:databinding-adapters:7.1.0] C:\Users\acer\.gradle\caches\transforms-3\07af13c4b333a255186f04ac2796e843\transformed\databinding-adapters-7.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.1.0] C:\Users\acer\.gradle\caches\transforms-3\549888d7988ef22a7c5621f3bfe5ebf8\transformed\databinding-ktx-7.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.1.0] C:\Users\acer\.gradle\caches\transforms-3\ac9d57ac75d78d93988022f762dceb79\transformed\databinding-runtime-7.1.0\AndroidManifest.xml:17:1-24:12
@@ -85,25 +85,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\acer\.gradle\cac
 MERGED from [androidx.print:print:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\7bd0a3e0dea1fa701eefab3b8c9706b3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\acer\.gradle\caches\transforms-3\3b5f3641b53dc7d28e3ff8de6710f94a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\acer\.gradle\caches\transforms-3\9ad257c019f42478a1efd62dcc923532\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:5:5-34:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\1629a78340868b8d3668be4c397babc4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\acer\.gradle\caches\transforms-3\1629a78340868b8d3668be4c397babc4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\acer\.gradle\caches\transforms-3\6a5aefa271efc199f4f9f307ac57dcc1\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -178,38 +178,44 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\acer\.gradle\cache
 		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:11:9-45
-activity#com.example.uiclass.RegisterActivity2
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:12:9-17:20
+activity#com.example.uiclass.SplashScreen
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:14:13-37
-	android:theme
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:15:13-50
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:13:13-46
-activity#com.example.uiclass.LoginActivity2
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:18:9-27:20
-	android:exported
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:21:13-36
-	android:theme
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:20:13-50
-	android:name
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:19:13-43
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.example.uiclass.MainActivity
-ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:28:9-30:40
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.uiclass.RegisterActivity2
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:21:9-24:62
 	android:exported
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:24:13-50
 	android:name
-		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:22:13-46
+activity#com.example.uiclass.LoginActivity2
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:25:9-30:20
+	android:exported
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:26:13-43
+activity#com.example.uiclass.MainActivity
+ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml:32:13-41
 uses-sdk
 INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidDEV\Android\Android_Project\UICLass\app\src\main\AndroidManifest.xml

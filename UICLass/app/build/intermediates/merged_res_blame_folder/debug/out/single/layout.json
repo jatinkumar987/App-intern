@@ -1,6 +1,30 @@
 [
     {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register2.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\activity_register2.xml"
+    },
+    {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_order.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\fragment_my_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
         "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login2.xml",
         "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\src\\main\\res\\layout\\nav_header.xml"
     }
 ]

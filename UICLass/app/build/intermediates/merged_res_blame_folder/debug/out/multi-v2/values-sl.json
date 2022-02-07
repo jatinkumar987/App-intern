@@ -4,7 +4,7 @@
             "outputFile": "D:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-3\\ab0be3b638306095d5e5a4237bc30f6d\\transformed\\play-services-base-18.0.1\\res\\values-sl\\values.xml",
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-3\\e3aa55c8ea2ec9c42c10724655fa4f42\\transformed\\jetified-play-services-base-18.0.1\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -18,6 +18,23 @@
                         "startOffsets": "3516,3622,3787,3916,4023,4170,4300,4414,4658,4816,4923,5090,5220,5372,5524,5594,5656",
                         "endColumns": "105,164,128,106,146,129,113,103,157,106,166,129,151,151,69,61,83",
                         "endOffsets": "3617,3782,3911,4018,4165,4295,4409,4513,4811,4918,5085,5215,5367,5519,5589,5651,5735"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-3\\de2062f94f3da1af35be5fde592ea7e8\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "135",
+                        "endOffsets": "330"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4518",
+                        "endColumns": "139",
+                        "endOffsets": "4653"
                     }
                 },
                 {
@@ -35,23 +52,6 @@
                         "startOffsets": "9768",
                         "endColumns": "100",
                         "endOffsets": "9864"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-3\\9e99ad290662c37a707d1c36c0eb3493\\transformed\\play-services-basement-18.0.0\\res\\values-sl\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "135",
-                        "endOffsets": "330"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "4518",
-                        "endColumns": "139",
-                        "endOffsets": "4653"
                     }
                 },
                 {

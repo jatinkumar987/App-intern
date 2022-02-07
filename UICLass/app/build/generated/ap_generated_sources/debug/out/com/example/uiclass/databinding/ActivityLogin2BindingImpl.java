@@ -18,9 +18,10 @@ public class ActivityLogin2BindingImpl extends ActivityLogin2Binding  {
         sViewsWithIds.put(R.id.et_login_email, 2);
         sViewsWithIds.put(R.id.textInputLayoutPassword, 3);
         sViewsWithIds.put(R.id.et_login_password, 4);
-        sViewsWithIds.put(R.id.btn_login, 5);
-        sViewsWithIds.put(R.id.tv_register, 6);
-        sViewsWithIds.put(R.id.btn_sign_in, 7);
+        sViewsWithIds.put(R.id.cb_rememberme, 5);
+        sViewsWithIds.put(R.id.btn_login, 6);
+        sViewsWithIds.put(R.id.tv_register, 7);
+        sViewsWithIds.put(R.id.btn_sign_in, 8);
     }
     // views
     @NonNull
@@ -31,17 +32,18 @@ public class ActivityLogin2BindingImpl extends ActivityLogin2Binding  {
     // Inverse Binding Event Handlers
 
     public ActivityLogin2BindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 8, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 9, sIncludes, sViewsWithIds));
     }
     private ActivityLogin2BindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
-            , (android.widget.Button) bindings[5]
-            , (android.widget.Button) bindings[7]
+            , (android.widget.Button) bindings[6]
+            , (android.widget.ImageView) bindings[8]
+            , (android.widget.CheckBox) bindings[5]
             , (androidx.appcompat.widget.AppCompatEditText) bindings[2]
             , (androidx.appcompat.widget.AppCompatEditText) bindings[4]
             , (com.google.android.material.textfield.TextInputLayout) bindings[1]
             , (com.google.android.material.textfield.TextInputLayout) bindings[3]
-            , (android.widget.TextView) bindings[6]
+            , (android.widget.TextView) bindings[7]
             );
         this.mboundView0 = (android.widget.LinearLayout) bindings[0];
         this.mboundView0.setTag(null);

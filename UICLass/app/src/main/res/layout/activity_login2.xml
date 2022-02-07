@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".LoginActivity2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOGIN"
+            android:layout_margin="22dp"
+            android:textColor="#222934"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textStyle="bold"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textInputLayoutEmail"
+            app:errorEnabled="true"
+            app:helperTextTextColor="#FF0000"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:hint="Email"
+
+            android:layout_margin="20dp">
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_login_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                tools:text="abc@gmail.com"
+                android:textColor="#676767"
+                android:textColorHint="#A8A5A5"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true"
+            android:id="@+id/textInputLayoutPassword"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+
+            android:hint="Password"
+
+            android:layout_margin="20dp">
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_login_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                tools:text="12345"
+                android:textColor="#676767"
+                android:textColorHint="#A8A5A5"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <CheckBox
+            android:id="@+id/cb_rememberme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remember me"
+            android:layout_gravity="right"
+            android:layout_marginRight="19dp"
+            android:textSize="13sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="22dp"
+            android:layout_gravity="bottom"
+            android:text="LOGIN"
+            android:backgroundTint="@color/purple_200"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:gravity="center"
+                android:text="Do not have an account? "
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_register"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:foreground="?attr/selectableItemBackground"
+                android:gravity="center"
+                android:text="Regsiter"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+
+        <ImageView
+            android:id="@+id/btn_sign_in"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="90dp"
+            android:background="@drawable/circle"
+            android:elevation="35dp"
+            android:src="@drawable/g1"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+</layout>

@@ -1779,6 +1779,7 @@ color purple_200
 color purple_500
 color purple_700
 color radiobutton_themeable_attribute_color
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2477,6 +2478,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable circle
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2501,6 +2503,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable g1
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_image_24
@@ -2518,6 +2521,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable img_background
 drawable line
+drawable logo
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2678,6 +2682,7 @@ id callMeasure
 id cancel_action
 id cancel_button
 id carryVelocity
+id cb_rememberme
 id center
 id center_horizontal
 id center_vertical
@@ -2702,6 +2707,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id contact
 id container
 id content
 id contentPanel
@@ -2760,6 +2766,7 @@ id enterAlwaysCollapsed
 id et_login_email
 id et_login_password
 id et_register_email
+id et_register_name
 id et_register_password
 id exitUntilCollapsed
 id expand_activities_button
@@ -2799,6 +2806,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id info
@@ -2882,9 +2890,7 @@ id mtrl_view_tag_bottom_padding
 id multiply
 id nav_logout
 id nav_myorder
-id nav_rateus
 id nav_setting
-id nav_share
 id nav_view
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -3022,7 +3028,10 @@ id text
 id text2
 id textEnd
 id textInputLayoutEmail
+id textInputLayoutEmail2
+id textInputLayoutName
 id textInputLayoutPassword
+id textInputLayoutpassword2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -3060,6 +3069,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id user_id
 id user_name
 id vertical_only
 id view_offset_helper
@@ -3168,6 +3178,7 @@ layout abc_tooltip
 layout activity_login2
 layout activity_main
 layout activity_register2
+layout activity_splash_screen
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -3275,7 +3286,11 @@ menu nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap img
+mipmap img2
+mipmap img2_background
+mipmap img2_round
 mipmap img_foreground
+mipmap img_foreground2
 mipmap img_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

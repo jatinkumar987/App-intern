@@ -1,14 +1,14 @@
-#Sat Feb 05 23:44:15 IST 2022
-path.4=11/classes.dex
-path.3=classes2.dex
-path.2=13/classes.dex
+#Mon Feb 07 17:35:58 IST 2022
+path.4=5/classes.dex
+path.3=13/classes.dex
+path.2=11/classes.dex
 path.1=0/classes.dex
-path.6=9/classes.dex
-path.5=5/classes.dex
+path.6=classes2.dex
+path.5=9/classes.dex
 path.0=classes.dex
-base.4=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.2=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.4=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
 base.1=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
@@ -17,6 +17,6 @@ renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.6=classes7.dex
 renamed.5=classes6.dex
-base.6=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.6=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 renamed.4=classes5.dex
-base.5=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.5=D\:\\AndroidDEV\\Android\\Android_Project\\UICLass\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex

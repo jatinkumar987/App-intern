@@ -25,19 +25,22 @@
         android:testOnly="true"
         android:theme="@style/Theme.UICLass" >
         <activity
-            android:name="com.example.uiclass.RegisterActivity2"
-            android:exported="false"
-            android:theme="@style/Theme.UICLass2" >
-        </activity>
-        <activity
-            android:name="com.example.uiclass.LoginActivity2"
-            android:exported="true"
-            android:theme="@style/Theme.UICLass2" >
+            android:name="com.example.uiclass.SplashScreen"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.uiclass.RegisterActivity2"
+            android:exported="false"
+            android:theme="@style/Theme.UICLass2" />
+        <activity
+            android:name="com.example.uiclass.LoginActivity2"
+            android:exported="true"
+            android:theme="@style/Theme.UICLass2" >
         </activity>
         <activity
             android:name="com.example.uiclass.MainActivity"

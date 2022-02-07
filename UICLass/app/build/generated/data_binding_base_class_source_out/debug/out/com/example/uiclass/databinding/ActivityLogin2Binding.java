@@ -5,6 +5,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,7 +23,10 @@ public abstract class ActivityLogin2Binding extends ViewDataBinding {
   public final Button btnLogin;
 
   @NonNull
-  public final Button btnSignIn;
+  public final ImageView btnSignIn;
+
+  @NonNull
+  public final CheckBox cbRememberme;
 
   @NonNull
   public final AppCompatEditText etLoginEmail;
@@ -39,12 +44,13 @@ public abstract class ActivityLogin2Binding extends ViewDataBinding {
   public final TextView tvRegister;
 
   protected ActivityLogin2Binding(Object _bindingComponent, View _root, int _localFieldCount,
-      Button btnLogin, Button btnSignIn, AppCompatEditText etLoginEmail,
+      Button btnLogin, ImageView btnSignIn, CheckBox cbRememberme, AppCompatEditText etLoginEmail,
       AppCompatEditText etLoginPassword, TextInputLayout textInputLayoutEmail,
       TextInputLayout textInputLayoutPassword, TextView tvRegister) {
     super(_bindingComponent, _root, _localFieldCount);
     this.btnLogin = btnLogin;
     this.btnSignIn = btnSignIn;
+    this.cbRememberme = cbRememberme;
     this.etLoginEmail = etLoginEmail;
     this.etLoginPassword = etLoginPassword;
     this.textInputLayoutEmail = textInputLayoutEmail;
